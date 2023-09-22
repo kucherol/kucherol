@@ -31,6 +31,7 @@
 <img src="https://img.shields.io/badge/Tailwind--css-407AFC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="tailwindcss" />
 <img src="https://img.shields.io/badge/material--ui-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="material ui" />
 <img src="https://img.shields.io/badge/webpack-35BDB2?style=for-the-badge&logo=webpack&logoColor=white" alt="webpack" />
+<img src="https://img.shields.io/badge/vite-339933?style=for-the-badge&logo=vite&logoColor=white" alt="vite" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
 <img src="https://img.shields.io/badge/adobe%20photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="photoshop" />
