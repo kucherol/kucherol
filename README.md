@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
-<img src="https://img.shields.io/badge/Vue-3178C6?style=for-the-badge&logo=vuedotjs&logoColor=green" alt="Vue.js" />
+<img src="https://img.shields.io/badge/Vue-00C7B7?style=for-the-badge&logo=vuedotjs&logoColor=green" alt="Vue.js" />
 <img src="https://img.shields.io/badge/Vuetify-F7DF1E?style=for-the-badge&logo=vuetify&logoColor=blue" alt="vuetify" />
 <!-- <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" />
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
