@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/oleh-kucher-940887140/">
 <img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
-  <a href="https://www.oleh-kucher.com/">
+  <a href="https://webcraft-notes.com/authors/oleh-kucher">
 <img src="https://img.shields.io/badge/check%20out%20my%20Website-042549?style=for-the-badge&logo=chainlink&logoColor=white" alt="portfolio" />
 </a>
   <a href="mailto:kucherol2108@gmail.com">
